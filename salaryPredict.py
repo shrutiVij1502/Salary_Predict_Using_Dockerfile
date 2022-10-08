@@ -20,5 +20,5 @@ a = float(input())
 
 pre= model.predict([[a]])
 
-print("predicted Salary :",pre)
+print("predicted Salary is :",pre)
 
